@@ -1,0 +1,18 @@
+body {background:black; font-size: 18px; font-family: 'Handlee', cursive;}
+    
+.postcard {background: yellow; width: 500px; height: 300px; margin: auto; position: absolute; 
+    top: 50%; left: 50%; transform: translate(-50%,-50%); padding: 15px;}
+header { overflow: hidden;font-family: 'Handlee', cursive;}
+.foto1{ max-width: 60px;float: right; overflow: hidden;margin-right: 20px; }
+.postcard-body {overflow: hidden; font-family: 'Handlee', cursive; padding-left: 10px;
+padding-right: 20px;}
+.imput {font-size: 18px; }    
+h1 { margin: 0;display: inline-block;}
+.left-part {float: left; background: white; width: 50%;}
+.right-part {float: right; width:50%; margin-top: 20px;}
+.right-part input { display: block; padding: 5px; margin-right: auto; width: 300px;
+border-top: 0; border-left: 0; border-right: 0; height: 25px;}
+.todo{ background: white; align-content: center; margin-left: 400px; margin-top: 100px;
+margin-right: 400px;}
+.boton{ float: inline-end; margin-left: 200px; align-content:center; padding-left: 25px;}
+
